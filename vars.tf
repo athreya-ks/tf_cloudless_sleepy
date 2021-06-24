@@ -12,5 +12,5 @@ variable "sleepy_time" {
 
 variable "TF_PARALLELISM" {
   description = "Parallelism value"
-  default     = 20
+  default     = 15
 }
